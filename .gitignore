@@ -124,3 +124,8 @@ all.config
 
 # fetched Android config fragments
 kernel/configs/android-*.cfg
+
+# pls dont track this files
+out*/
+AnyKernel*/
+clang*/
